@@ -1,0 +1,108 @@
+
+.container1 {
+    position: absolute;
+    width: 468px;
+    height: 160px;
+    top: 90px;
+    left: 98px;
+    display: flex;
+    justify-content: start;
+    align-items: flex-end;
+    align-self: flex-end;  
+    background-color:  #fa8c06
+}
+
+
+.container2 {
+    position: absolute;
+    width: 468px;
+    height: 160px;
+    left: 98px;
+    top: 270px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    align-self: flex-start;  
+    background-color:  #fa8c06 
+}
+
+
+.container3 {
+    position: absolute;
+    width: 468px;
+    height: 160px;
+    left: 98px;
+    top: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+    align-content: center;  
+    background-color:  #fa8c06
+}
+
+
+.container4 {
+    position: absolute;
+    width: 468px;
+    height: 160px;
+    top: 90px;
+    left: 586px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: stretch;
+    align-self: flex-start; 
+    background-color:  #fa8c06
+ }
+  
+ 
+.container5 {
+    position: absolute;
+    width: 468px;
+    height: 160px;
+    left: 586px;
+    top: 270px;
+    display: flex;
+    justify-content: start;
+    justify-content: space-between;
+    align-items: flex-end;
+    align-self: flex-start;  
+    background-color:  #fa8c06
+ }  
+ 
+ .container6 {
+    position: absolute;
+    width: 468px;
+    height: 160px;
+    top: 450px;
+    left: 586px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: flex-start;
+    order: 3;
+    flex-grow: 1;
+    background-color:  #fa8c06
+  }
+   
+    .box-one {
+    
+       width: 50px;
+       min-height: 50px;
+       margin: 10px;
+       background-color:#9D0208 
+    }
+   
+ .box-two {
+       width: 50px;
+       min-height: 50px;
+       margin: 10px;
+       background-color:#9D0208  
+   }
+.box-three {
+       width: 50px;
+       min-height: 50px;
+       margin: 10px;
+       background-color:#9D0208  
+   }
